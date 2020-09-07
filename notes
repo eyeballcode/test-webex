@@ -1,0 +1,8 @@
+ok so
+it has discord integration
+it has a webserver
+webserver serves the audio clips
+discord bot receives command (!play john kermond)
+
+youtube.js searches & downloads video
+then uses executeScript to run the addToQueue command
